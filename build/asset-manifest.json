@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hiver-Assignment/static/css/main.4a7ad7f4.chunk.css",
+    "main.js": "/Hiver-Assignment/static/js/main.d298cc33.chunk.js",
+    "main.js.map": "/Hiver-Assignment/static/js/main.d298cc33.chunk.js.map",
+    "runtime-main.js": "/Hiver-Assignment/static/js/runtime-main.3d404fcf.js",
+    "runtime-main.js.map": "/Hiver-Assignment/static/js/runtime-main.3d404fcf.js.map",
+    "static/js/2.1004ccc0.chunk.js": "/Hiver-Assignment/static/js/2.1004ccc0.chunk.js",
+    "static/js/2.1004ccc0.chunk.js.map": "/Hiver-Assignment/static/js/2.1004ccc0.chunk.js.map",
+    "static/js/3.146ee114.chunk.js": "/Hiver-Assignment/static/js/3.146ee114.chunk.js",
+    "static/js/3.146ee114.chunk.js.map": "/Hiver-Assignment/static/js/3.146ee114.chunk.js.map",
+    "index.html": "/Hiver-Assignment/index.html",
+    "static/css/main.4a7ad7f4.chunk.css.map": "/Hiver-Assignment/static/css/main.4a7ad7f4.chunk.css.map",
+    "static/js/2.1004ccc0.chunk.js.LICENSE.txt": "/Hiver-Assignment/static/js/2.1004ccc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d404fcf.js",
+    "static/js/2.1004ccc0.chunk.js",
+    "static/css/main.4a7ad7f4.chunk.css",
+    "static/js/main.d298cc33.chunk.js"
+  ]
+}
